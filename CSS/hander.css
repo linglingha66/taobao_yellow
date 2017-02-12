@@ -1,0 +1,21 @@
+.hander{min-height: 0;background-color: #FFF;}
+.fixedtool{display:none;position: absolute;top: 490px;transition: none;margin-right: -633px;right: 50%;width: 50px;text-align: center;
+	background-color: #fff;color: #3C3C3C;}
+.fixedtool .on{width: 50px;height: 50px;background: url(../img/悬浮框/bg-1.jpg) no-repeat;}
+.fixedtool .on strong{ color: #fff;}
+.fixedtool a{display: block;height: 50px;position: relative;}
+.fixedtool a strong{display: block;border-bottom: 1px solid #efefef; margin: -1px 8px 0;height: 44px;padding-top: 6px;font-weight: 400px;}
+.fixedtool a i{font-style: normal;font-size: 14px;display: block;line-height: 40px;}
+.fixedtool-1 strong{color:#F40;font-weight: 700;font-size: 13px;line-height: 17px;padding-top: 10px;height: 40px;}
+.fixedtool-2 strong{color: #f05;}
+.fixedtool-3 strong{color: #8d7afb;}
+.fixedtool-4 strong{color: #A8C001;}
+.fixedtool-5 strong{color: #a2745b;}
+.fixedtool-6 strong{color: #F40;font-weight: 700;font-size: 13px;line-height: 17px;padding-top: 10px;height: 40px;}
+.fixedtool-7-icon{background:url(../img/悬浮框/top.gif) no-repeat;width:11px;height: 6px;margin:4px 0 4px 12px;}
+.fixedtool-7 strong{font:12px/25px normal "Microsoft SimSun"; }
+.fixedtool-8 strong{font:12px/44px normal "Microsoft SimSun"; }
+.fixedtool-9 strong{font:12px/20px normal "Microsoft SimSun"; }
+
+
+

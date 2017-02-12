@@ -1,0 +1,96 @@
+.cover{color: #3C3C3C;}
+.site-nav{width:100%;background-color: #f5f5f5;border-bottom: 1px solid #eee; position: relative;}
+.site-nav-extra{display:none;height:48px;width:100%;background-color:white;position: fixed;top:0px;z-index: 1000;}
+#search-tab-tit1{display:none;width:76px;padding: 3px 0px 1px 0;background-color: #F6F6F6;text-align: center;position: absolute;top:11px;left:433px;}
+#search-tab-tit1 li{height:26px;padding: 0px 0px 4px 0;color: #3C3C3C;font-weight: 400;font-size: 12px;line-height: 26px;cursor: pointer;}
+#search-tab-tit1 .tmall-search-tab1,#search-tab-tit1 .shop-search-tab1{color: #f40;}
+#search-tab-tit1 .tmall-search-tab1:hover{color: #C60000;}
+#search-tab-tit1 img{margin:-15px 0 0 60px;}
+.nav-extra-bd{width:1190px;height: 50px;margin: 0 auto;}
+.nav-extra-bd img{position:absolute;top:8px;}
+
+.search-panel1{margin:8px 0px 0px 265px;display: block;position: relative;width: 626px;height: 50px;}
+.search-button1{position: absolute;right: 0;width: 122px;height: 34px;text-align: center;}
+.btn-search1{font-size: 18px;font-weight: 700;color: #FFF;background-color: #FF4200;cursor: pointer;height: 100%;border: none;width: 100%;}
+.btn-search1:hover{background-color: #FF2200;}
+.btn-search1.tmao-btn{background-color:#C60000;}
+.search-combobox{background: #fff;}
+.search-panel-fields1{padding: 0px 0 3px 0px;height: 26px;border:3px solid #F50;border-right: 0px;}
+.search-panel-fields1 .goods-search-tab1{width:76px;height:25px;background-color: #F6F6F6;padding: 3px 0px 1px 0;color: #3C3C3C;
+	font-weight: 400;font-size: 12px;line-height: 26px;text-align: center;position: absolute;top:3px;left:3px;cursor: pointer;}
+.search-panel-fields1 .goods-search-tab1 img{margin:6px 0 0 60px;cursor: pointer;}
+.search-panel-fields1.tmao-panel{border:3px solid #C60000;}
+#q1{height: 26px;width: 420px;border:1px solid #fff;position: absolute;left: 82px;}
+.search-panel1 .search-panel-fields1 lable{position: absolute;top:9px;left: 103px;color: #9C9C9C;cursor: text;touch-action: none;font:12px "Microsoft SimSun";}
+.suppose1{background-color: #fff;border:1px solid #9C9C9C;width: 500px;position: absolute;left:2px;top:32px;display: none;}
+.suppose1 li{padding: 4px;cursor: pointer;font-size: 12px;}
+.suppose1 li:hover{background-color: #EEE;}
+.tb-icon1{background:url(../img/find.png) no-repeat;width:15px;height:15px;position: absolute;top:9px;left: 84px;display: inline-block;text-decoration: none;
+    -webkit-font-smoothing: antialiased;}
+.search-imgsearch-panel1{top:9px;right: 132px; position: absolute;}
+.search-imgsearch-upload{width: 100%; height: 100%;position: absolute;top: 0;left: 0;overflow: hidden;}
+
+
+.site-nav-bd{margin:0 auto;width:1190px;height:35px;}
+.site-nav-bd a{color: #3c3c3c;}
+.site-nav-bdl{float:left;}
+.site-nav-login{float: left;margin:0px;}
+.site-nav-menu{height: 35px;padding:0 4px;text-align: center;line-height:35px;float: left;}
+.site-nav-menu a{font:12px "Microsoft SimSun";margin:10px 5px 0px 0px;color:#6C6C6C;float: left;}
+.site-nav-menu a:hover{color:#f22e00;}
+.site-nav-mobile{float: left;margin:0;}
+.h{color:#f22e00!important;}
+.site-nav-bdr{float:right;}
+.site-nav-bdr li{float: left;}
+.site-nav-arrow{background: url(../img/arrow_down.png) no-repeat;width: 4px;height: 2px;float: left;margin: 16px 7px 0px 6px;overflow: hidden;}
+.site-nav-menu-list1{z-index: 10001;padding:8px 0;height:50px;position:relative;display:none;margin-top: 35px;}
+.site-nav-menu-list1-box {position:absolute;left: -1px;top: 0;line-height: normal; border: 1px solid #EEE;border-top:0px;background: #FFF;}
+.site-nav-bdr-mytaobao:hover .site-nav-menu-list1{display: block;}
+.site-nav-bdr-mytaobao:hover .site-nav-menur1{border: 1px solid #EEE;background: #FFF;border-bottom: 0px;margin: -1px;}
+.site-nav-menu-list1-box a{display: block;padding:8px;line-height: 28px;white-space: nowrap;color: #6C6C6C;font:12px "Microsoft SimSun";}
+.site-nav-menu-list1-box a:hover{background: #f5f5f5;}
+.site-nav-shopping{background: url(../img/shopping.png) no-repeat;width: 11px;height: 11px;float: left;margin: 11px 5px 0px 5px;}
+.site-nav-menu-list2{z-index: 10001;height:90px;display:none;margin-top: 27px;position:relative;}
+.site-nav-menu-list2-box{padding:12px 0;position:absolute;left: -1px;top: 8px;width: 296px;min-height: 40px;border: 1px solid #EEE;background: #FFF;font:12px "Microsoft SimSun";border-top:0px; }
+.site-nav-bdr-shop:hover .site-nav-menu-list2{display: block;}
+.site-nav-bdr-shop:hover .site-nav-menur2{border: 1px solid #EEE;background: #FFF;border-bottom: 0px;margin: -1px;}
+.site-nav-menu-list2-box a{display: inline-block;vertical-align: middle;padding: 0 10px;height: 25px;line-height: 25px;color: #fff;
+                           background: #f40;border-radius: 2px;}
+.site-nav-star{background: url(../img/star.png) no-repeat;width: 10px;height: 10px;float: left;margin: 11px 5px 0px 5px;}
+.site-nav-menu-list3{z-index: 10001;padding:8px 0;height:50px;position:relative;display:none;margin-top: 36px;}
+.site-nav-menu-list3-box {position:absolute;left: 0px;top: 0;width:85px;line-height: normal; border: 1px solid #EEE;background: #FFF;border-top: 0px;}
+.site-nav-bdr-collection:hover .site-nav-menu-list3{display: block;}
+.site-nav-bdr-collection:hover .site-nav-menur3{border: 1px solid #EEE;background: #FFF;border-bottom: 0px;margin: -1px;}
+.site-nav-menur3:hover .site-nav-star{background: url(../img/star_on.png) no-repeat;}
+.site-nav-menu-list3-box a{display: block;padding:8px;line-height: 28px;white-space: nowrap;color: #6C6C6C;font:12px "Microsoft SimSun";}
+.site-nav-menu-list3-box a:hover{background: #f5f5f5;}
+.site-nav-pipe{float: left;height: 35px;line-height: 35px;padding: 0 5px;font-style: normal;color: #ddd;margin: 0px 5px;}
+.site-nav-menu-list4{z-index: 10001;padding:8px 0px;height:60px;position:relative;display:none;margin-top: 36px;}
+.site-nav-menu-list4-box {overflow: hidden;position:absolute;left: 0px;top: 0;line-height: normal; border: 1px solid #EEE;background: #FFF;border-top: 0px;}
+.site-nav-bdr-sale:hover .site-nav-menu-list4{display: block;}
+.site-nav-bdr-sale:hover .site-nav-menur4{border: 1px solid #EEE;background: #FFF;border-bottom: 0px;margin: -1px;}
+.site-nav-menu-list4-box a{display: block;padding:8px;line-height: 28px;white-space: nowrap;color: #6C6C6C;font:12px "Microsoft SimSun";}
+.site-nav-menu-list4-box a:hover{background: #f5f5f5;}
+.site-nav-menu-list5{z-index: 10001;padding:8px 0;height:50px;position:relative;display:none;margin-top: 36px;}
+.site-nav-menu-list5-box {position:absolute;left: 0px;top: 0;line-height: normal; border: 1px solid #EEE;background: #FFF;border-top: 0px;}
+.site-nav-bdr-contact:hover .site-nav-menu-list5{display: block;}
+.site-nav-bdr-contact:hover .site-nav-menur5{border: 1px solid #EEE;background: #FFF;border-bottom: 0px;margin: -1px;}
+.site-nav-menu-list5-box a{display: block;padding:8px;line-height: 28px;white-space: nowrap;color: #6C6C6C;font:12px "Microsoft SimSun";}
+.site-nav-menu-list5-box a:hover{background: #f5f5f5;}
+.site-nav-menu-list6{z-index: 10001;display: none;padding:8px 0;position: relative;margin-top: 35px;}
+.site-nav-web{background: url(../img/three_line.png) no-repeat;width: 8px;height: 6px;float: left;margin: 13px 5px 0px 5px;}
+.site-nav-menu-panel{position: absolute;top:1px;right: 0;left: auto;width:1188px;min-height: 258px;line-height: normal;overflow: hidden;
+    border: 1px solid #eee;background: #fff;border-top: 0px;}
+.site-nav-sitemap-mod{float: left;width: 25%;overflow: hidden;}
+.site-nav-sitemap-mod-wrap{padding: 0px 5px;border-right: 1px solid #eee;overflow: hidden;height:400px;}
+.site-nav-sitemap-mod-hd{line-height: normal;}
+.site-nav-sitemap-mod-hd h4{font-size: 16px;font-weight: 600px;overflow: hidden;}
+h4{-webkit-margin-before: 1.33em;-webkit-margin-after: 1.33em;-webkit-margin-start: 0px;-webkit-margin-end: 0px;}
+.site-nav-sitemap-mod-wrap li{padding-top: 5px;height: 25px;overflow: hidden;}
+.site-nav-sitemap-mod-wrap a{position: relative; font-size:12px;text-align:center;margin: 0px 2px;padding: 6px 6px;}
+.site-nav-bdr-web:hover .site-nav-menu-list6{display: block;}
+.site-nav-bdr-web:hover .site-nav-menur6{border: 1px solid #EEE;background: #FFF;border-bottom: 0px;margin: -1px;}
+.site-nav-sitemap-mod-wrap .bd1 a:hover{background: #fc4200;color:#fff;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;}
+.site-nav-sitemap-mod-wrap .bd2 a:hover{background: #9fb838;color:#fff;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;}
+.site-nav-sitemap-mod-wrap .bd3 a:hover{background: #d75696;color:#fff;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;}
+.site-nav-sitemap-mod-wrap .bd4 a:hover{background: #2e9fdb;color:#fff;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;}

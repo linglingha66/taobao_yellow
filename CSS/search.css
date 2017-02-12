@@ -1,0 +1,57 @@
+.search{color: #3C3C3C;font:12px "Microsoft SimSun";background-color:#f1f1f1; }
+.top-H{background-color: #FFF;padding-top: 30px ;height: 100px;padding-bottom: 33px;}
+.screen-H{margin-top: -34px;height: 555px;}
+.top-wrap{transition: width .2s;width: 1190px;margin: 0 auto;position: relative;}
+.top-center{width: 100%;min-height: 1px;}
+.center-wrap{margin-left: 265px; margin-right: 300px;}
+.search-wrap{position: relative;}
+.search-hd{position: absolute;right: -34px;top: 26px;padding-top: 6px;}
+.search-hd a{color: #666;font-size: 12px;}
+.search-hd a:hover{color: #f22e00;}
+.search-bd{z-index: 30;position: relative;transform: translateZ(0);}
+.search-ft{position: relative;padding: 5px 41px 0 0;height: 20px;}
+.search-triggers{position:relative;height: 25px;}
+.ks-switchable-nav{position:absolute;left:-40px;top:-11px;font:12px "Microsoft SimSun";-webkit-margin-before: 1em;-webkit-margin-after: 1em;-webkit-margin-start: 0px;-webkit-margin-end: 0px;-webkit-padding-start: 40px;}
+
+.search-triggers li{color: #F40;text-align: center;float: left;width: 50px;height: 25px;line-height: 25px;cursor: pointer; }
+
+.search-triggers .selected{color: #FFF;font-weight: 700;background-color: #FF5400;}
+.search-triggers .ks-switchable-nav .tmall-search-tab.selected{background-color: #C60000;}
+.search-panel{margin:0px;display: block;}
+.search-button{position: absolute;right: 0;top: 25px;width: 122px;height: 40px;text-align: center;}
+.btn-search{font-size: 18px;font-weight: 700;color: #FFF;background-color: #FF4200;cursor: pointer;height: 100%;border: none;width: 100%;}
+.btn-search:hover{background-color: #FF2200;}
+.btn-search.tmao-btn{background-color:#C60000;}
+.search-combobox{background: #fff;}
+.search-panel-fields{padding: 0px 0 3px 3px;height: 32px;border:3px solid #F50;border-right: 0px;}
+.search-panel-fields.tmao-panel{border:3px solid #C60000;}
+#q{height: 31px;width: 488px;border:1px solid #fff;position: absolute;top: 29px;left: 12px;}
+.search-panel .search-panel-fields lable{position: absolute;top: 38px;left: 34px;color: #9C9C9C;cursor: text;touch-action: none;font:12px "Microsoft SimSun";}
+.suppose{background-color: #fff;border:1px solid #9C9C9C;width: 500px;position: absolute;top:63px;left:2px;display: none;}
+.suppose li{padding: 4px;cursor: pointer;}
+.suppose li:hover{background-color: #EEE;}
+.tb-icon{background:url(../img/find.png) no-repeat;width:15px;height:15px;position: absolute;top: 38px;left: 15px;display: inline-block;text-decoration: none;
+    -webkit-font-smoothing: antialiased;}
+.search-imgsearch-panel{top: 37px;right: 132px; position: absolute;}
+.search-imgsearch-upload{width: 100%; height: 100%;position: absolute;top: 0;left: 0;overflow: hidden;}
+.btn-text{display: none;}
+.search-ft{position: relative;padding: 5px 41px 0 0;height: 20px;overflow: hidden;}
+.search-hots-sline{overflow: hidden;height: 18px;line-height: 18px;margin-bottom: 5px;}
+.search-ft .search-hots-sline a{float:left;margin-right: 8px;color: #666;}
+.search-ft .search-hots-sline a:hover{color:#f22e00;}
+.more{color: #666;position: absolute;top: 8px;right: 12px;margin-right: 0;background: #FFF;}
+.more:hover{color:#f22e00;}
+.tb-icon-right{background: url(../img/right.png) no-repeat;width: 6px;height: 9px;position: absolute;top:2px;left:28px;}
+
+.top-logo{background: url(../img/logo.png) no-repeat;width: 140px;height: 58px;float: left; display: block;margin-top: 8px;
+    margin-left: 22px;padding-top: 58px;}
+
+.top-extra{position: relative;width: 100px;margin-left: 1092px;float: right;}
+.top-extra .qr{margin-top: -120px;top: 28px;}
+.qr .qr-bd{cursor: pointer;display: block;text-align: center;width: 94px;height: 112px;color: #666;background-color: #FFF;    border: 1px solid #eee;}
+.qr .qr-bd span{line-height: 20px;margin: 4px auto 0;width: 78px;}
+.qr .qr-bd img{display: block;margin-left: 8px;width: 81px;height: 80px;}
+.qr-close{width: 18px;height: 18px;text-align:center;position: absolute;top: -120px;left: -19px;
+	       color: #dde;font:16px/18px "Microsoft YaHei";display: block;border: 1px solid #eee;}
+.qr-close:hover{color: #ccc;}
+

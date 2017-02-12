@@ -1,0 +1,83 @@
+body{color: #3C3C3C;background-color: #f1f1f1;overflow-y:hidden; }
+.seat-H{transition: width .2s;width: 1190px;margin: 0 auto;position: relative;}
+.seat-rect{float: left;width: 100%;min-height: 1px;margin-top: -30px;}
+.seat-rect-wrap{margin-left: 0;margin-right: 301px;width: 890px;}
+.often-visit{margin-right: -10px;}
+.often-hd{background-position: center -604px;margin-top: 15px;position: relative;height: 33px;position: relative;}
+.often-hd em{text-indent: 430px;font:bold 100% "Microsoft YaHei";display: block;position: absolute;top:0;}
+.often-hd .short-line{color: #cecdcd;position: absolute;top:5px;left:508px;}
+.often-hd .line-prev{position: absolute;left:344px;} 
+.often-hd img{display: inline-block;position: absolute;top:4px;left:406px;}
+.often-hd a{border-radius: 10px;background: #fff;height: 20px; padding: 0 18px 0 14px;position: absolute;
+    right: 12px;bottom: 8px;font-weight: 400;font: 12px/20px "Microsoft SimSun";}
+.often-hd a:hover{color: #f40;}
+.often-hd i{display: inline-block;background: url(../img/right.png) no-repeat;width:6px;height: 9px;position: absolute;bottom: 6px;
+			right:5px; }
+.fashion,.quality,.play,.affordable{margin-right: -10px;}
+.fashion-hd,.quality-hd,.play-hd,.affordable-hd{background-position: center -604px;margin-top: 15px;position: relative;height: 33px;position: relative;}
+.fashion-hd em,.quality-hd em,.play-hd em,.affordable-hd em{text-indent: 430px;font:bold 100% "Microsoft YaHei";display: block;position: absolute;top:0;}
+.fashion-hd .short-line,.quality-hd .short-line,.play-hd .short-line,.affordable-hd .short-line{color: #cecdcd;position: absolute;top:5px;left:524px;}
+.fashion-hd .line-prev,.quality-hd .line-prev,.play-hd .line-prev,.affordable-hd .line-prev{position: absolute;left:344px;} 
+.fashion-hd img,.quality-hd img,.play-hd img,.affordable-hd img{display: inline-block;position: absolute;top:4px;left:404px;}
+.fashion-hd a,.quality-hd a,.play-hd a,.affordable-hd a{border-radius: 10px;background: #fff;height: 20px; padding: 0 18px 0 14px;position: absolute;
+    	right: 12px;bottom: 8px;font-weight: 400;font: 12px/20px "Microsoft SimSun";}
+.fashion-hd a:hover,.quality-hd a:hover,.play-hd a:hover,.affordable-hd a:hover{color: #f40;}
+.fashion-hd i,.quality-hd i,.play-hd i,.affordable-hd i{display: inline-block;background: url(../img/right.png) no-repeat;width:6px;height: 9px;position: absolute;bottom: 6px;
+		right:5px; }
+.guess-love{margin-right: -10px;background-color:#fff; }
+.guess-love-hd{background-position: center -604px;margin-top: 15px;position: relative;height: 40px;position: relative;}
+.guess-love-hd em{text-indent: 570px;font:bold 100% "Microsoft YaHei";display: block;position: absolute;top:0;}
+.guess-love-hd .short-line{color: #cecdcd;position: absolute;top:5px;left:648px;}
+.guess-love-hd .line-prev{position: absolute;left:485px;} 
+.guess-love-hd img{display: inline-block;position: absolute;top:6px;left:547px;}
+.text-down{left: 50%;width: 200px;top: 26px; padding-left: 10px; overflow: hidden;line-height: 18px;font-size: 12px;color: #c4c2c2;
+		position: absolute;left: 518px;}
+
+.often-bd{position: relative;}
+.often-bd a{display: inline-block;margin-right: 3px;}
+.often-bd a div{display:none;width: 440px;height: 244px;background: rgba(255,68,0,0.8);position: absolute;text-align: center;
+		line-height:60px;font-size: 20px;color: #fff;padding-top: 120px;}
+.often-gray1{top:0px;left:0;}
+.often-gray2{top:0px;right:11px;}
+
+.fashion-bd a{display: inline-block;margin-right: 0px;}
+.fashion-bd a div{display:none;width: 220px;height: 182px;background: rgba(255,68,0,0.8);position: absolute;text-align: center;
+		line-height:60px;font-size: 20px;color: #fff;padding-top: 76px;}
+
+.hotsale-list{padding-left: 20px;padding-bottom: 1330px;margin-right: 0px;background-color: #fff;}
+.hotsale-list li{float: left;margin-top: 28px;margin-right: 8px;border: 1px solid transparent;background-color: #f5f5f5;
+    color: #6c6c6c;width: 222px;height: 302px;overflow: hidden;position: relative;}
+.hotsale-imgwrapper{display: inline-block;letter-spacing: normal;word-spacing: normal;vertical-align: top;background: #EAEAEA;
+    width: 223px;height: 220px;overflow: hidden;}
+.hotsale-item p{padding: 3px 12px;line-height: 18px;color: #6c6c6c;height: 36px;overflow: hidden;}
+.hotsale-list-gray{display:none;width: 222px;height: 222px;background: rgba(0,0,0,0.2);position: absolute;top:0px;left:0;}
+.hotsale-item-info{margin-top: 8px;padding: 0 13px;}
+.hotsale-item-marks{float: left;width: 0;height: 18px;margin-right: 8px;background-repeat: no-repeat;vertical-align: middle;
+    position: relative;}
+.hotsale-item-price{float: left;color: #F40;font-size: 16px;font-family: "Microsoft Yahei";}
+.hotsale-item-price em{display: inline-block;letter-spacing: normal;word-spacing: normal;
+    vertical-align: top;margin-right: 2px;}
+.hotsale-item-sales{float: right;color: #9ca0aa;margin-top: 3px;}
+.hotsale-item-more{display:none;position: absolute;bottom: 0;left: 0;width: 223px;height: 82px;
+			background: url(../img/猜你喜欢/similar-bg.png) no-repeat;}
+.hotsale-item-more h4{margin: 15px auto 0;width: 120px;line-height: 32px;text-align: center;font-size: 18px;font-weight: 400;
+    color: #fff;border-bottom: 1px solid #d65915;}
+.hotsale-item-more p{line-height: 22px;font-size: 12px;height: 22px;color: #fff;text-align: center;}
+.hotsale-item-more img{width:12px;height:12px;background-color: #fff;vertical-align: middle;border-radius: 6px;
+    display: inline-block;}
+.hotsale-end{color: #cecdcd;}
+
+.seat-extra{position: relative;width: 290px;margin-left: -290px;float: left; }
+.goods{height: 1822px;margin-top: 9px;padding: 0 10px;overflow: hidden;background-color:#fff;}
+.good-goods{position: absolute;top:-10px;left:0px;display: block;width: 280px;height: 47px;}
+.goods-list{height: 1775px;overflow: hidden;margin-top: 32px;}
+.goods-list a{display: block;height: 100px;width: 270px;overflow: hidden;margin-bottom: 3px;}
+.goods-list a span{float: left;width: 100px;height: 100px;overflow: hidden;padding-right: 10px;position: relative;}
+.goods-list a strong{display: block;font-size: 14px;height: 32px;overflow: hidden;width: 156px;line-height: 32px;}
+.goods-list a p{line-height: 20px;color: #666;height: 40px;overflow: hidden;}
+.goods-list a em{color: #68acf5;display: block;font-weight: 700;margin-top: 6px;}
+.goods-refresh{text-align: center;font-weight: 400;font-size: 14px;color: #666;cursor: pointer;position: absolute;bottom:20px;}
+.goods-refresh img{margin-left: 82px;font-size: 18px;margin-bottom: -23px;}
+.goods-refresh span{display: inline-block;margin-left: 118px;}
+.goods-refresh:hover{color: #f40;}
+.goods-gray{display:none;width: 100px;height: 100px;background: rgba(0,0,0,0.2);position: absolute;top:0px;left:0;}

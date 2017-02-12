@@ -1,0 +1,23 @@
+body{color: #3C3C3C;}
+.bottom{width: 1190px;margin: 0 auto;position: relative;background-color: transparent;}
+.helper{margin-top: 40px;height: 140px;float: left;}
+.helper .mod{float: left;margin-right: -1px;width: 25%;}
+.helper .mod .mod-wrap{padding: 0 25px;}
+.helper .mod .mod-wrap h4{margin-bottom: 5px;height:40px;}
+h4{display: block;font-weight: bold;}
+.mod-wrap img{display: inline-block;float: left;}
+.helper .mod .mod-wrap h4 span{float: left;margin-left: 12px;padding-top: 12px;font-size: 16px;}
+.helper .mod .mod-wrap li{line-height: 21px;display: inline-block;letter-spacing: normal;word-spacing: normal;
+    vertical-align: top;margin-right: 10px;float: none;width: auto;}
+.helper .mod .mod-wrap li a{color: #999;}
+.helper .mod .mod-wrap li a:hover{color: #f40;}
+
+.footer{float:left;border-top: 2px solid #F40;height:180px;width: 1190px;max-width: 100%;margin: 0 auto;position: relative; padding: 7px 0 0px;}
+.footer .footer-hd p{margin-bottom: 8px;line-height: 27px;border-bottom: 1px solid #ddd;}
+.footer span{margin: 0 0px;white-space: nowrap;color: #9c9c9c;}
+.footer-hd a{white-space: nowrap;color: #6c6c6c;}
+.footer b{margin: 0 3px;font-weight: 400;color: #ddd;}
+.footer p{padding-bottom: 8px;overflow: hidden;}
+.footer .footer-bd a{white-space: nowrap;color: #6c6c6c;}
+.footer .footer-bd span{margin: 0 2px;}
+.footer em{margin-left: 30px;white-space: nowrap;color: #9c9c9c;font-style: normal;}
